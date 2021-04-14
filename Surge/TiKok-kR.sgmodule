@@ -1,3 +1,5 @@
+#!name=TikTok KR
+#!desc=TikTok Unlock
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) KR 307
